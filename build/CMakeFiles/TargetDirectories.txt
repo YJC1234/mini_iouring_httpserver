@@ -1,0 +1,3 @@
+/home/yjc/1dinner/build/CMakeFiles/test.dir
+/home/yjc/1dinner/build/CMakeFiles/edit_cache.dir
+/home/yjc/1dinner/build/CMakeFiles/rebuild_cache.dir
